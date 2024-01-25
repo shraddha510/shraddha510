@@ -4,7 +4,7 @@
 
 👀 I’m interested in web dev, software dev, machine learning, as well as mastering data structures and algorithms.
 
-🔭 I’m currently working on my Bachelor's of Computer Science.
+🔭 I’m currently working on my Bachelor's of Computer Science, as well as a personal project: A Facebook clone!
 
 🌱 I’m currently learning how to program with Python, Java, and Javascript.
 

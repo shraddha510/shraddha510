@@ -11,5 +11,5 @@
 💞️ I’m looking to collaborate on any projects! :)
 
 
-📫 How to reach me: shr.patel1996@gmail.com
+📫 How to reach me: shraddha11367@gmail.com
 
